@@ -1,2 +1,2 @@
 GIT e GITHUB
-    Aprendendo a postar no repositorio
+    Aprendendo a postar no repositorio git
