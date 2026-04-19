@@ -1,1 +1,2 @@
-Aprendendo a mexer com Git
+GIT e GITHUB
+    Aprendendo a postar no repositorio
